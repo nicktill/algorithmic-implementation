@@ -1,4 +1,4 @@
-# CS-1501 Algorithmic Implmentation @Pitt
+# CS-1501 Algorithmic Implmentation (CS1501 @Pitt)
 
 Professor Shattab Khattab
 
