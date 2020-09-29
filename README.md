@@ -1,4 +1,5 @@
-#Alogirthm-Implementation | CS-1501
+##Alogirthm-Implementation
+
 Professor Shattab Khattab
 
 University of Pittsburgh
